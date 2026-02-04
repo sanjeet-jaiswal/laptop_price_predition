@@ -5,11 +5,11 @@
 ## 📑 Table of Contents
 
 1. [Project Overview](#project-overview)
-2. [Problem Statement](#Problem-Statement)
+2. [Problem Statement](#problem-statement)
 3. [Dataset Description](#dataset-description)
-4. [Data Cleaning and Preprocessing](#data-cleaning-and-preprocessing)
+4. [Data Cleaning and Preprocessing](#data-cleaning-&-preprocessing)
 5. [Feature Engineering](#feature-engineering)
-6. [Exploratory Data Analysis](#exploratory-data-analysis)
+6. [Exploratory Data Analysis](#exploratory-data-analysis-eda)
 7. [Model Building](#model-building)
 8. [Model Evaluation](#model-evaluation)
 9. [Key Learnings](#key-learnings)

@@ -5,7 +5,7 @@
 ## 📑 Table of Contents
 
 1. [Project Overview](#project-overview)
-2. [Problem Statement](#problem-statement)
+2. [Problem Statement](#Problem-Statement)
 3. [Dataset Description](#dataset-description)
 4. [Data Cleaning and Preprocessing](#data-cleaning-and-preprocessing)
 5. [Feature Engineering](#feature-engineering)
@@ -27,14 +27,14 @@ The project follows an end-to-end **data science workflow**, starting from raw d
 
 ---
 
-## ❓ Problem Statement
+##  Problem Statement
 
 Laptop prices vary significantly based on specifications such as processor, RAM, storage, screen resolution, and display quality.  
 The objective of this project is to build a machine learning-ready dataset that can accurately predict laptop prices based on these features.
 
 ---
 
-## 📂 Dataset Description
+##  Dataset Description
 
 The dataset contains laptop specifications such as:
 
@@ -52,7 +52,7 @@ The dataset contains laptop specifications such as:
 
 ---
 
-## 🧹 Data Cleaning & Preprocessing
+##  Data Cleaning & Preprocessing
 
 The following preprocessing steps were performed:
 
@@ -63,7 +63,7 @@ The following preprocessing steps were performed:
 
 ---
 
-## 🛠️ Feature Engineering
+##  Feature Engineering
 
 Several meaningful features were created to improve model performance:
 
@@ -85,7 +85,7 @@ These transformations helped reduce noise and improve feature relevance.
 
 ---
 
-## 📊 Exploratory Data Analysis (EDA)
+##  Exploratory Data Analysis (EDA)
 
 EDA was performed to:
 
@@ -96,7 +96,7 @@ EDA was performed to:
 
 ---
 
-## 🤖 Model Building
+##  Model Building
 
 The cleaned and engineered dataset is prepared for machine learning models such as:
 
@@ -108,7 +108,7 @@ The focus is on understanding how feature engineering impacts model performance.
 
 ---
 
-## 📈 Model Evaluation
+##  Model Evaluation
 
 Models are evaluated using metrics such as:
 
@@ -120,7 +120,7 @@ These metrics help assess prediction accuracy and model reliability.
 
 ---
 
-## 📘 Key Learnings
+##  Key Learnings
 
 - Importance of feature engineering in price prediction  
 - Handling real-world messy datasets  
@@ -129,7 +129,7 @@ These metrics help assess prediction accuracy and model reliability.
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 - Hyperparameter tuning  
 - Feature selection optimization  
@@ -138,14 +138,14 @@ These metrics help assess prediction accuracy and model reliability.
 
 ---
 
-## 🙋‍♂️ About Me
+##  About Me
 
 I am actively exploring the **Data Analytics and Data Science** field by working on real-world datasets.  
 This project reflects my hands-on learning approach and growing interest in building practical machine learning solutions.
 
 ---
 
-## 👤 Author
+##  Author
 
 **Sanjeet Jaiswal**  
 **Aspiring Data Scientist / Data Analyst / ML Engineer**

@@ -7,16 +7,15 @@
 1. [Project Overview](#project-overview)
 2. [Problem Statement](#problem-statement)
 3. [Dataset Description](#dataset-description)
-4. [Data Cleaning & Preprocessing](#data-cleaning--preprocessing)
+4. [Data Cleaning and Preprocessing](#data-cleaning-and-preprocessing)
 5. [Feature Engineering](#feature-engineering)
-6. [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
+6. [Exploratory Data Analysis](#exploratory-data-analysis)
 7. [Model Building](#model-building)
 8. [Model Evaluation](#model-evaluation)
 9. [Key Learnings](#key-learnings)
 10. [Future Improvements](#future-improvements)
 11. [About Me](#about-me)
 12. [Author](#author)
-
 ---
 
 ## 📌 Project Overview
